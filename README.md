@@ -128,11 +128,3 @@ Save these to `requirements.txt` in the project root.
 This project is intended for **research, educational, and decision-support purposes only**. It is **not a certified medical device** and must **not** be used as a substitute for professional medical judgment, diagnosis, or treatment. All AI-generated outputs (classifications, summaries, answers) should be reviewed and validated by a qualified healthcare professional before any clinical use.
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](../../issues) or open a pull request.
-
-## 📄 License
-
-Specify your license here (e.g. MIT, Apache 2.0). Add a `LICENSE` file to the repository root.
