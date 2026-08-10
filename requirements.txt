@@ -1,0 +1,6 @@
+streamlit==1.61.1
+torch==2.13.0
+matplotlib==3.11.1
+pypdf==6.15.0
+transformers==5.14.1
+reportlab==5.0.0
